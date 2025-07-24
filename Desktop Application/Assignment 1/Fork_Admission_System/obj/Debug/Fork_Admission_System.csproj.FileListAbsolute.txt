@@ -1,0 +1,12 @@
+D:\vishakha\C#.Net\Desktop Application\Assignment 1\Fork_Admission_System\bin\Debug\Fork_Admission_System.exe.config
+D:\vishakha\C#.Net\Desktop Application\Assignment 1\Fork_Admission_System\bin\Debug\Fork_Admission_System.exe
+D:\vishakha\C#.Net\Desktop Application\Assignment 1\Fork_Admission_System\bin\Debug\Fork_Admission_System.pdb
+D:\vishakha\C#.Net\Desktop Application\Assignment 1\Fork_Admission_System\obj\Debug\Fork_Admission_System.csproj.AssemblyReference.cache
+D:\vishakha\C#.Net\Desktop Application\Assignment 1\Fork_Admission_System\obj\Debug\Fork_Admission_System.frm_Login.resources
+D:\vishakha\C#.Net\Desktop Application\Assignment 1\Fork_Admission_System\obj\Debug\Fork_Admission_System.Properties.Resources.resources
+D:\vishakha\C#.Net\Desktop Application\Assignment 1\Fork_Admission_System\obj\Debug\Fork_Admission_System.csproj.GenerateResource.cache
+D:\vishakha\C#.Net\Desktop Application\Assignment 1\Fork_Admission_System\obj\Debug\Fork_Admission_System.csproj.CoreCompileInputs.cache
+D:\vishakha\C#.Net\Desktop Application\Assignment 1\Fork_Admission_System\obj\Debug\Fork_Admission_System.exe
+D:\vishakha\C#.Net\Desktop Application\Assignment 1\Fork_Admission_System\obj\Debug\Fork_Admission_System.pdb
+D:\vishakha\C#.Net\Desktop Application\Assignment 1\Fork_Admission_System\obj\Debug\Fork_Admission_System.frm_Student_Details.resources
+D:\vishakha\C#.Net\Desktop Application\Assignment 1\Fork_Admission_System\obj\Debug\Fork_Admission_System.frm_Student_List.resources
